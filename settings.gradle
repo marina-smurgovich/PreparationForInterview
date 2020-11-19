@@ -1,0 +1,3 @@
+include ':activity_lifecycler'
+include ':app'
+rootProject.name = "Preparation for interview"
