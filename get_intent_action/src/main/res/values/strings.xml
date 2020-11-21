@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Get Intent Action</string>
+    <string name="show_date">Show Date</string>
+    <string name="show_time">Show Time</string>
+</resources>

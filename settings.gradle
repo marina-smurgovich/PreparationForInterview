@@ -1,3 +1,7 @@
+include ':intent_with_data'
+include ':method_startactivityforresult'
+include ':get_intent_action'
+include ':intent_filter'
 include ':activity_lifecycler'
 include ':app'
 rootProject.name = "Preparation for interview"

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Method StartActivityForResult</string>
+    <string name="color">Color</string>
+    <string name="gravity">Gravity</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="center">Center</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+</resources>
