@@ -15,8 +15,11 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/get_intent_action" />
             <option value="$PROJECT_DIR$/intent_filter" />
+            <option value="$PROJECT_DIR$/intent_webview" />
             <option value="$PROJECT_DIR$/intent_with_data" />
             <option value="$PROJECT_DIR$/method_startactivityforresult" />
+            <option value="$PROJECT_DIR$/shared_preferences" />
+            <option value="$PROJECT_DIR$/sharedpreferencesradiobutton" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">shared preferences radiobutton</string>
+    <string name="first_radio_button">First Radio button</string>
+    <string name="second_radio_button">Second Radio button</string>
+    <string name="third_radio_button">Third Radio button</string>
+    <string name="hello">Hello !!!</string>
+    <string name="hi">Hi !!!</string>
+</resources>
