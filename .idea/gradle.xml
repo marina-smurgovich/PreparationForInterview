@@ -20,6 +20,7 @@
             <option value="$PROJECT_DIR$/method_startactivityforresult" />
             <option value="$PROJECT_DIR$/shared_preferences" />
             <option value="$PROJECT_DIR$/sharedpreferencesradiobutton" />
+            <option value="$PROJECT_DIR$/sqlitedatabase" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
