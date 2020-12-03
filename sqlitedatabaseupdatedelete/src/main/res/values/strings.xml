@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SQLiteDataBase Update Delete</string>
+    <string name="id">id</string>
+    <string name="enter_id">Enter id</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="add">Add</string>
+    <string name="read">Read</string>
+    <string name="clear">Clear</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_email">Enter email</string>
+</resources>

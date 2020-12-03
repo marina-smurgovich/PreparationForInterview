@@ -21,6 +21,7 @@
             <option value="$PROJECT_DIR$/shared_preferences" />
             <option value="$PROJECT_DIR$/sharedpreferencesradiobutton" />
             <option value="$PROJECT_DIR$/sqlitedatabase" />
+            <option value="$PROJECT_DIR$/sqlitedatabaseupdatedelete" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
